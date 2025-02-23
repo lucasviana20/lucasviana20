@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasviana20&theme=dark"/>
 </div>
 
-<div style="display: inline_block">
+<div style="display: flex">
   
 ### 🚀 Tecnologias que utilizo:
 <div style="display: inline_block"><br>
