@@ -1,11 +1,10 @@
 ## Oi! Eu sou Lucas Viana 👋
 Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado financeiro. Atualmente, trabalho com desenvolvimento web utilizando **React, JavaScript, HTML, CSS, Python e Bootstrap**.
 
----
-
 - 🔭 Trabalhando com desenvolvimento FullStack
 - 🌱 Estudando Angular
 
+---
 
 ### 📊 Minhas Estatísticas no GitHub
 <div>
