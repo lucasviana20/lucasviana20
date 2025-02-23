@@ -8,7 +8,7 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
 
 
 ### 📊 Minhas Estatísticas no GitHub
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasviana20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasviana20&theme=dark"/>
 </div>
