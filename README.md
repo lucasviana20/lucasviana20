@@ -5,9 +5,9 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
 - 🌱 Estudando Angular
 
 ---
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasviana20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasviana20&theme=dark"/>
+<div style="display: center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasviana20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasviana20&theme=dark"/>
 </div>
 
 ---
@@ -24,11 +24,10 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </div>
 
-<div style="margin-top: '10px'">
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/lucasviana20" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="mailto:lucasev2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
 </div>
 
 
