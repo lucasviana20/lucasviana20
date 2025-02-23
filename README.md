@@ -21,7 +21,7 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
   </div>
 
 ### 🐍 Estatísticas do GitHub
-![snake gif](https://github.com/lucasviana20/lucasviana20/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lucasviana20/lucasviana20/blob/output/github-contribution-grid-snake.svg)
 
  <div align="center">
     <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
