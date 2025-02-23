@@ -10,9 +10,6 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasviana20&theme=dark"/>
 </div>
 
-## Oi! Eu sou Lucas Viana 👋
-Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado financeiro. Atualmente, trabalho com desenvolvimento web utilizando **React, JavaScript, HTML, CSS, Python e Bootstrap**.
-
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
