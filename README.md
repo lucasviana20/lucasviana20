@@ -15,7 +15,7 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
 ### 🚀 Tecnologias que utilizo:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <div>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
