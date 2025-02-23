@@ -11,6 +11,7 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
 </div>
 
 <div style="display: inline_block">
+  
 ### 🚀 Tecnologias que utilizo:
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,8 +21,6 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </div>
-
----
 
 ### 🌍 Onde me encontrar:
 <div>
