@@ -3,16 +3,12 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
 
 - 🔭 Trabalhando com desenvolvimento FullStack
 - 🌱 Estudando Angular
-
----
+  
 <div style="display: center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasviana20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasviana20&theme=dark"/>
 </div>
 
----
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
 
 ### 🚀 Tecnologias que utilizo:
 <div style="display: inline_block">
@@ -30,12 +26,6 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
   <a href="mailto:lucasev2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 </div>
-
-  
-
-</div>
-
-
 
 ### 🐍 Estatísticas do GitHub
 ![Snake animation](https://github.com/lucasviana20/lucasviana20/blob/output/github-contribution-grid-snake.svg)
