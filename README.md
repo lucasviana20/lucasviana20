@@ -33,6 +33,11 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
     <a href="mailto:lucasev2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
+### 📌 Linguagens Mais Usadas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasviana20&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ---
 
 🔹 Sempre aprendendo e buscando novos desafios! 🚀
