@@ -10,8 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
 </div>
 
 
-### 🚀 Tecnologias que utilizo & 🌍 Onde me encontrar:
-<div style="display: flex; align-items: center; gap: 20px;">
+### 🚀 Tecnologias que utilizo:
   <div>
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,16 +19,15 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   </div>
-  <div>
-    <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://github.com/lucasviana20" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-    <a href="mailto:lucasev2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
-</div>
 
 ### 🐍 Estatísticas do GitHub
 ![Snake animation](https://github.com/lucasviana20/lucasviana20/blob/output/github-contribution-grid-snake.svg)
 
+ <div>
+    <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/lucasviana20" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <a href="mailto:lucasev2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
 
 ---
 
