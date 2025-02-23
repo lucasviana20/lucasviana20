@@ -23,7 +23,7 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e pelo mercado fin
 ### 🐍 Estatísticas do GitHub
 ![Snake animation](https://github.com/lucasviana20/lucasviana20/blob/output/github-contribution-grid-snake.svg)
 
- <div>
+ <div align="center">
     <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://github.com/lucasviana20" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <a href="mailto:lucasev2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
